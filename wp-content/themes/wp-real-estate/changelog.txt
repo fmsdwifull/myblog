@@ -1,0 +1,43 @@
+ChangeLog
+=========
+
+Version 1.0.1
+
+	i) Fixed Text Domain in style.css
+
+Version 0.98
+
+	i) Bug Fixes.
+	ii) Translation And Sanitization Fixes.
+	iii) Corrected theme url
+	iv) Other Minor Changes.
+
+
+Version 0.95
+
+	i) Used a new function to render thumbnails.
+	ii) Removed unused code and functions.
+	iii) used filters where appropriate
+	iv) other minor pre release bug fixes
+
+Version 0.94
+
+	i) Corrected Help Link.
+	
+Version 0.93
+
+	i) Pre Release Fixes.
+
+Version 0.92 (Pre Release)
+	
+	i) Added Custom Functions for Excerpts
+	ii) Layout Issues
+	iii) Other Minor Fixes.
+
+Version 0.91
+
+	i) Pre Release Bug Fixes.
+	
+Version 0.9
+
+	i) Initial Release.

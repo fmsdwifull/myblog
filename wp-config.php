@@ -26,7 +26,8 @@ define('DB_NAME', 'myblog');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'freeswitch-mysql-root');
+#define('DB_PASSWORD', 'freeswitch-mysql-root');
+define('DB_PASSWORD', 'mysql');
 
 /** MySQL主机 */
 define('DB_HOST', 'localhost');
